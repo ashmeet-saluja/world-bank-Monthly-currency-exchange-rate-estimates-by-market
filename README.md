@@ -1,8 +1,4 @@
-# world-bank-Monthly-currency-exchange-rate-estimates-by-market
-Monthly currency exchange rate estimates by market
-
-
-# Exploratory Data Analysis for WLD_RTP_details Dataset
+# Exploratory Data Analysis for world bank Monthly currency exchange rate estimates by market Dataset
 
 ## Executive Summary:
 Using Python, I conducted an exploratory data analysis (EDA) on the WLD_RTP_details dataset. The goal was to uncover patterns, insights, and relationships within the data. This analysis involved data preprocessing, statistical analysis, and data visualization to provide a comprehensive overview of the dataset.
